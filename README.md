@@ -1,5 +1,7 @@
 
-🚀 Project Delivery Day – A New Step Forward
+🚀 From Theory to Real Linux
+
+📅 24/12/2025
 
 Today, we successfully delivered our Linux Process Management project as part of the Operating Systems course, and it truly feels like a meaningful milestone for our team.
 
